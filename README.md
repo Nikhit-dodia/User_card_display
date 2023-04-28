@@ -1,2 +1,1 @@
-# task_2_LGM
-user card display using react-app
+Display user card containing their information using react-app.
